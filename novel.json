@@ -1,1 +1,7 @@
-测试
+{
+  "content": [
+    {"en": "This is the first paragraph of the novel.", "zh": "这是第一段小说内容。"},
+    {"en": "This is the second paragraph of the novel.", "zh": "这是第二段小说内容。"},
+    {"en": "This is the third paragraph of the novel.", "zh": "这是第三段小说内容。"}
+  ]
+}
